@@ -1,2 +1,0 @@
-# smdb_dist
-SMDB
